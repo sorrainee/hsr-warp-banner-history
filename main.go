@@ -401,9 +401,8 @@ func addBanner(index *BannerHistory, lcResponse map[string]LightCone, charRespon
 			if banner.Rerun > 0 {
 				banner.Desc = strings.Join([]string{"Indelible Coterie", charResponse[strconv.Itoa(banner.RateUp)].Name}, ": ")
 			}
-		case LCGACHA:
-		case COLLABLCGACHA:
-			banner.Desc = lcResponse[banner.Id].Name
+		case LCGACHA, COLLABLCGACHA:
+			banner.Desc = lcResponse[strconv.Itoa(banner.RateUp)].Name
 
 			if banner.Rerun > 0 {
 				banner.Desc = strings.Join([]string{"Coalesced Truths", banner.Desc}, ": ")
