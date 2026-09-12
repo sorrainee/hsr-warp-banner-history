@@ -2305,6 +2305,40 @@
             "is_exclusive": true
         },
         {
+            "desc": "",
+            "gacha_type": "11",
+            "id": "2137",
+            "version": "4.4",
+            "rateup4": [
+                1109,
+                1108,
+                1210
+            ],
+            "companion_banner": 2138,
+            "end_time": 1790539140,
+            "rateup": 1513,
+            "rerun": 0,
+            "start_time": 1789185600,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Indelible Coterie: Ashveil",
+            "gacha_type": "11",
+            "id": "2138",
+            "version": "4.4",
+            "rateup4": [
+                1109,
+                1108,
+                1210
+            ],
+            "companion_banner": 2137,
+            "end_time": 1790539140,
+            "rateup": 1504,
+            "rerun": 1,
+            "start_time": 1789185600,
+            "is_exclusive": true
+        },
+        {
             "desc": "In the Night",
             "gacha_type": "12",
             "id": "3003",
@@ -4580,6 +4614,40 @@
             "rateup": 23042,
             "rerun": 3,
             "start_time": 1787702340,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Summer Rides the Surf",
+            "gacha_type": "12",
+            "id": "3137",
+            "version": "4.4",
+            "rateup4": [
+                21003,
+                21014,
+                21054
+            ],
+            "companion_banner": 3138,
+            "end_time": 1790539140,
+            "rateup": 23064,
+            "rerun": 0,
+            "start_time": 1789185600,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Coalesced Truths: The Finale of a Lie",
+            "gacha_type": "12",
+            "id": "3138",
+            "version": "4.4",
+            "rateup4": [
+                21003,
+                21014,
+                21054
+            ],
+            "companion_banner": 3137,
+            "end_time": 1790539140,
+            "rateup": 23056,
+            "rerun": 1,
+            "start_time": 1789185600,
             "is_exclusive": true
         },
         {
